@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+gensim
+normalise
+faker
+tqdm
+jsonlines
+matplotlib
+seaborn
+wordcloud
+textblob
+textdistance
